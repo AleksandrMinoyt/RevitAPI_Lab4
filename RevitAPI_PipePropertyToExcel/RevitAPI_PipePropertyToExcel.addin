@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_PipePropertyToExcel.dll"</Assembly>
+    <AddInId>9EA192F9-514E-4358-B88F-CCF92A330576</AddInId>
+    <FullClassName>RevitAPI_PipePropertyToExcel.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Запись параметров труб в Excel</Text>
+  </AddIn>
+</RevitAddIns>

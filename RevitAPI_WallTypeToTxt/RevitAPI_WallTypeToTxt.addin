@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_WallTypeToTxt.dll"</Assembly>    
+    <AddInId>FEE1F98B-6BD1-4B2B-B5DA-67CFCEE9CA72</AddInId>
+    <FullClassName>RevitAPI_WallTypeToTxt.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Запись типа и объёма стены в текстовый файл</Text>
+  </AddIn>
+</RevitAddIns>
